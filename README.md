@@ -1,7 +1,7 @@
-I have tried to create Sign Up and login page using only HTML you can see final webpages screenshots below:-
-I have learnt 
+
+I am learning these in [Crework](<https://crework.in>) community.
+I have tried to create Sign Up and login page using HTML and CSS you can see final webpages screenshots below:-
 
 
-
-<img width="251" alt="Screenshot 2022-07-24 at 2 01 03 AM" src="https://user-images.githubusercontent.com/22564064/180621954-72f994f5-76e2-48b6-b5db-8edd5342699e.png">
-<img width="251" alt="Screenshot 2022-07-24 at 2 01 11 AM" src="https://user-images.githubusercontent.com/22564064/180621956-d8c72c4c-dde0-40c6-8520-df26685be53d.png">
+<img width="1920" alt="Screenshot 2022-07-31 at 4 27 05 PM" src="https://user-images.githubusercontent.com/22564064/182023025-cd3d0115-1e90-414c-985f-7f88ba1876d2.png">
+<img width="1920" alt="Screenshot 2022-07-31 at 4 31 49 PM" src="https://user-images.githubusercontent.com/22564064/182023042-d60428b3-b602-4b9e-be28-4d3a72ff2565.png">
